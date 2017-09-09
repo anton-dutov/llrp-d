@@ -1,0 +1,7 @@
+name        "llrp-client"
+description "Simple client"
+authors     "Anton Dutov"
+copyright   "Copyright © 2017, Anton Dutov"
+license     "PUBLIC DOMAIN"
+
+dependency "llrp" version="~master" path="../.."

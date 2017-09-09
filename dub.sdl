@@ -1,0 +1,7 @@
+name        "llrp"
+description "Simple LLRP Impl (RFID)"
+authors     "Anton Dutov"
+copyright   "Copyright © 2017, anton"
+license     "PUBLIC DOMAIN"
+
+dependency "vibe-core" version="~>1.0.0"
